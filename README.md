@@ -5,8 +5,13 @@ With this code you will get list of files in assets with Dart code for Flutter.
 
 First you need to configure your pubspec.yaml file with assets.
 
-For 
-<img src="https://github.com/DiMiTriFrog/Flutter_listing_assets/blob/master/res/capt.png?raw=true"/>
+For this image ->
+
+<img width="289px" height="143px"  src="https://github.com/DiMiTriFrog/Flutter_listing_assets/blob/master/res/capt.png?raw=true"/>
+
+The configure ->
+
+<img width="289px" height="143px"  src="https://raw.githubusercontent.com/DiMiTriFrog/Flutter_listing_assets/master/res/pub.png"/>
 
 You should read de file AssetManifest.json (contains path of all assets files include in pubspec.yaml) 
 and filter the text.
