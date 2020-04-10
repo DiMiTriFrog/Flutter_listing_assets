@@ -36,3 +36,5 @@ You have the code in main.dart and the resources in assets/.
 Android example:
 
 <img width="316px" height="672px" src="https://raw.githubusercontent.com/DiMiTriFrog/Flutter_listing_assets/master/res/screenshot.png"/>
+
+Using in apps I make for strattonapps.com
