@@ -9,7 +9,7 @@ For this resources ->
 
 <img width="289px" height="143px"  src="https://github.com/DiMiTriFrog/Flutter_listing_assets/blob/master/res/capt.png?raw=true"/>
 
-The configure ->
+The pubspec.yaml ->
 
 <img width="218px" height="71px"  src="https://raw.githubusercontent.com/DiMiTriFrog/Flutter_listing_assets/master/res/pub.png"/>
 
